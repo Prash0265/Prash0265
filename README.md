@@ -1,4 +1,4 @@
-[![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/328209487/original/9df4c041912994b3ca8a3da982f8e0141c0e3329/develop-website-with-mern-next-js-react-js-mongodb-full-stack-web-developer.png)]
+
 <h1 align="center">Hi 👋, I'm Prashanth Nandaram</h1>
 <h3 align="center">A passionate Full stack developer from Toronto, Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47c2oe8des9v45qxbeofkau123ta88k015piynoe35&ep=v1_gifs_search&rid=giphy.gif&ct=g">
