@@ -6,12 +6,7 @@
   width="400"
   src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47c2oe8des9v45qxbeofkau123ta88k015piynoe35&ep=v1_gifs_search&rid=giphy.gif&ct=g"
 />
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=prash0265&label=Profile%20views&color=0e75b6&style=flat"
-    alt="prash0265"
-  />
-</p>
+
 
 <p align="left">
   <a href="https://twitter.com/" target="blank"
