@@ -107,8 +107,8 @@
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
     alt="css3"
-    width="40"
-    height="40"
+  width="40"
+      height="40"
   />
 </a>
 </p>
@@ -119,6 +119,8 @@
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=prash0265&show_icons=true&locale=en&layout=compact"
     alt="prash0265"
+    height="150"
+    width="300"
   />
 </p>
 
@@ -127,6 +129,8 @@
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=prash0265&show_icons=true&locale=en"
     alt="prash0265"
+    height="150"
+    width="300"
   />
 </p>
 
@@ -135,5 +139,7 @@
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=prash0265&"
     alt="prash0265"
+    height="150"
+    width="300"
   />
 </p>
