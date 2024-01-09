@@ -125,7 +125,7 @@
 </p>
 
 <p>
-  &nbsp;<img
+  <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=prash0265&show_icons=true&locale=en"
     alt="prash0265"
