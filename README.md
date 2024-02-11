@@ -114,25 +114,6 @@
 </p>
 
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=prash0265&show_icons=true&locale=en&layout=compact"
-    alt="prash0265"
-    height="150"
-    width="300"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=prash0265&show_icons=true&locale=en"
-    alt="prash0265"
-    height="150"
-    width="300"
-  />
-</p>
 
 <p>
   <img
