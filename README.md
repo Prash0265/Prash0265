@@ -1,7 +1,7 @@
 Hi! My name is Prashanth Nandaram 
 ========================================================================================================================================
 
-🌍  I am a Front-End React Developer based in Toronto, Canada.
+🌍  I am a Software Engineer based in Toronto, Canada.
 <br/>
 
 ### Skills
